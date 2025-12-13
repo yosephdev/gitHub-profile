@@ -1,21 +1,49 @@
-# Hi there, I'm Yoseph! 👋🏾 👨🏾‍💻  
+# Hi, I'm Yoseph 👋
+
 ![Banner Image](https://github.com/yosephdev/GitHub-Profile/blob/main/banner-yoseph-berhane.png)
 
-## About Me 🚀
+## Full Stack Developer building production-grade web systems
 
-I'm a **Full Stack Developer** passionate about building **AI-powered educational platforms**, **eCommerce solutions**, and **digital experiences** that create meaningful impact. With expertise in **modern web technologies**, **AI integration**, and **user-centered design**, I craft scalable applications that solve real-world problems.
+I design and build scalable, secure, and user-focused applications using modern web technologies. My work spans frontend experiences, full-stack platforms, and AI-assisted educational tools, with a strong emphasis on real-world usability and long-term maintainability.
 
-- 🌱 Currently exploring: **AI/ML integration, Next.js 14, and advanced TypeScript patterns**
-- 🔭 Actively building: **AI-powered educational tools and full-stack applications**
-- 🛠️ Tech Arsenal: **Next.js, React, TypeScript, Python, Django, PostgreSQL, Firebase, Google AI**
-- 📫 Reach me at: **contact@yoseph.dev**
-- ⚡ Fun fact: I'm building educational tools for underserved communities while exploring **hiking trails** and capturing moments through **photography**!
+### I've delivered:
+
+- Client-facing business websites
+- Full-stack booking and reservation systems
+- E-commerce platforms with modern UI/UX
+- AI-powered educational tools for underserved communities
+
+### What I focus on
+
+- Clean architecture and clear boundaries
+- Secure authentication and role-based access
+- Performance-first frontend development
+- Practical AI integration where it adds real value
+
+### Tech I work with
+
+React, Next.js, TypeScript, Python, Django, PostgreSQL, Supabase, Cloudflare, Vite, Tailwind CSS
+
+### How I work
+
+I believe good software is:
+
+- Easy to reason about
+- Safe by default
+- Built to evolve, not impress
+
+📍 Based in Sweden
+📫 Contact: contact@yoseph.dev
+🌐 Portfolio: https://www.yoseph.dev
+
+_I share demos publicly. I protect production systems._
 
 ---
 
-## My Tech Stack 🧠  
+## My Tech Stack 🧠
 
 ### Frontend & UI
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -23,6 +51,7 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ![Radix UI](https://img.shields.io/badge/-Radix%20UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
 
 ### Backend & Database
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -30,6 +59,7 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### AI & Tools
+
 ![Google AI](https://img.shields.io/badge/-Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -40,12 +70,14 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ## Featured Projects 💻
 
 ### 🤖 [TigrayTutor - AI Educational Platform](https://tigray-tutor-ai.vercel.app/)
+
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-blue?style=flat-square)](https://tigray-tutor-ai.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/yosephdev/tigray-tutor-ai)
 
 **TigrayTutor** is an AI-powered educational platform designed specifically for Tigrinya-speaking students, providing personalized tutoring aligned with the Ethiopian curriculum.
 
 ✨ **Key Features:**
+
 - 🗣️ Native Tigrinya language interface
 - 🤖 Google Gemini AI integration for intelligent tutoring
 - 📱 Responsive design with dark/light mode
@@ -57,11 +89,13 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ---
 
 ### 🛒 [Baby's & Me - Premium eCommerce](https://www.babysme.com/)
+
 [![Live Site](https://img.shields.io/badge/🌐-Live%20Site-green?style=flat-square)](https://www.babysme.com/)
 
 **Baby's & Me** is a modern eCommerce platform offering handmade baby and toddler products. Built with performance and accessibility in mind, featuring seamless checkout and mobile-first design.
 
 ✨ **Highlights:**
+
 - 🛍️ Advanced product catalog with filtering
 - 💳 Secure payment processing
 - 📱 Mobile-optimized shopping experience
@@ -72,11 +106,13 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ---
 
 ### 🌍 [Anenitigray Development Services](https://www.anenitigray.org/)
+
 [![Live Site](https://img.shields.io/badge/🌐-Live%20Site-green?style=flat-square)](https://www.anenitigray.org/)
 
 **ADS** is a comprehensive web platform for a Non-Governmental Organization committed to fostering sustainable development and humanitarian support in Tigray through community-driven initiatives.
 
 ✨ **Impact:**
+
 - 🌱 Supporting sustainable development goals
 - 📊 Community engagement tracking
 - 🤝 Volunteer management system
@@ -87,11 +123,13 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ---
 
 ### 🧠 [Ternafit - Digital Solidarity Platform](https://www.ternafit.org/)
+
 [![Live Site](https://img.shields.io/badge/🌐-Live%20Site-green?style=flat-square)](https://www.ternafit.org/)
 
 **Ternafit** is a Sweden-based NGO platform empowering the Tigrean community through information sharing, awareness campaigns, and resource mobilization.
 
 ✨ **Mission-Driven Features:**
+
 - 🔗 Community connection tools
 - 📢 Awareness campaign management
 - 💰 Resource mobilization tracking
@@ -102,6 +140,7 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ---
 
 ### 🍽️ [Book Dine - Restaurant Reservation System](https://github.com/yosephdev/book-dine)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/yosephdev/book-dine)
 
 ![Book Dine Screenshot](https://github.com/yosephdev/book-dine/blob/main/docs/readme_images/image-mockup.png)
@@ -109,6 +148,7 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 **Book Dine** is a full-stack restaurant reservation system with real-time availability, intelligent booking logic, and intuitive management dashboard.
 
 ✨ **Restaurant-Ready Features:**
+
 - 📅 Real-time table availability
 - 🔔 Automated booking confirmations
 - 📊 Analytics dashboard for owners
@@ -119,6 +159,7 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ---
 
 ### 🎓 [Mastery Hub - Professional Mentorship Platform](https://github.com/yosephdev/mastery-hub)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/yosephdev/mastery-hub)
 
 ![Mastery Hub Screenshot](https://github.com/yosephdev/mastery-hub/blob/main/docs/readme_images/responsive-preview.png?raw=true)
@@ -126,6 +167,7 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 **Mastery Hub** connects professionals for mentorship and skill-sharing, featuring advanced matching algorithms and comprehensive learning tracking.
 
 ✨ **Professional Growth Tools:**
+
 - 🤝 Smart mentor-mentee matching
 - 📈 Progress tracking and analytics
 - 💬 Integrated messaging system
@@ -136,11 +178,13 @@ I'm a **Full Stack Developer** passionate about building **AI-powered educationa
 ---
 
 ### 🌐 [Globe Trotter Companion - Travel Assistant](https://globe-trotter-companion.netlify.app/)
+
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-blue?style=flat-square)](https://globe-trotter-companion.netlify.app/)
 
 **Globe Trotter Companion** is a comprehensive travel assistant featuring real-time currency conversion, time zone management, and travel planning tools.
 
 ✨ **Traveler Essentials:**
+
 - 💱 Real-time currency converter
 - 🕐 Global time zone checker
 - 🗺️ Interactive travel planner
@@ -176,6 +220,7 @@ I'm always excited to discuss **innovative projects**, **AI integration**, **edu
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yosephdev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  **"Building technology that empowers communities and creates meaningful impact"** 🚀
+
+**"Building technology that empowers communities and creates meaningful impact"** 🚀
+
 </div>
