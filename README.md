@@ -197,8 +197,8 @@ _I share demos publicly. I protect production systems._
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosephdev&show_icons=true&theme=radical&hide_border=true" alt="Yoseph's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosephdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-blond-ten-16.vercel.app/api?username=yosephdev&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-blond-ten-16.vercel.app/api/top-langs/?username=yosephdev&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
