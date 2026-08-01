@@ -2,6 +2,8 @@
 
 ![Banner Image](https://github.com/yosephdev/GitHub-Profile/blob/main/banner-yoseph-berhane.png)
 
+![About me](https://about.me/yoseph_berhane)
+
 ## Full Stack Developer · Freelance Web Builder · Nonprofit Technologist
 
 I design and build scalable, secure, and user-focused applications using modern web technologies. Over 5+ years I've shipped 25+ projects spanning client-facing business websites, full-stack SaaS platforms, e-commerce stores, and AI-powered tools — with a strong emphasis on real-world usability, measurable results, and long-term maintainability.
@@ -43,6 +45,7 @@ I design and build scalable, secure, and user-focused applications using modern 
 ### How I work
 
 Good software is:
+
 - Easy to reason about
 - Safe by default
 - Built to evolve — not just to impress
@@ -108,7 +111,7 @@ _I share demos publicly. I protect production systems._
 
 ---
 
-### 🏛️ [TernaFit — Nonprofit Digital Ecosystem](https://www.ternafit.org/)
+### 🏛️ [Ternafit — Nonprofit Digital Ecosystem](https://www.ternafit.org/)
 
 [![Live Site](https://img.shields.io/badge/🌐-Live%20Site-green?style=flat-square)](https://www.ternafit.org/)
 
